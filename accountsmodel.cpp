@@ -6,7 +6,7 @@ AccountsModel::AccountsModel(QObject *parent) :
     QAbstractListModel(parent),
     m_accountsManager(new Accounts::Manager())
 {
-    foreach(Accounts::AccountId id, m_accountsManager.accountList("e-mail")) {
+    foreach(Accounts::AccountId id, m_accountsManager.accountListEnabled("e-mail")) {
         Accounts::Account *account = m_accountsManager.account(id);
         if (account->providerName() == "google") {
             m_accountsList.append(account);
