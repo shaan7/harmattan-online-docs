@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/doc_icons">
+        <file alias="presentation.png">images/application-vnd.ms-powerpoint.png</file>
+        <file alias="document.png">images/application-x-applix-word.png</file>
+        <file alias="spreadsheet.png">images/application-vnd.ms-excel.png</file>
+    </qresource>
+    <qresource prefix="/general">
+        <file alias="appicon.svg">harmattangoogledrive.svg</file>
+    </qresource>
+</RCC>

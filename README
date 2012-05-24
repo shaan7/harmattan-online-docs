@@ -1,0 +1,8 @@
+Online Docs lets the user to login with a Google Account and view files in Google Docs.
+You can view your online docs, download them and view them in the native Office viewer.
+This app is designed to work with a Harmattan device such as N9/N950.
+
+Note: currently the app only fetches accounts from the Harmattan Accounts service, the
+user still has to enter the password. I am trying to figure out how to use the SSO API
+properly, any help appreciated!
+
