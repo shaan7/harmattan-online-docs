@@ -169,6 +169,7 @@ void GoogleDocsService::downloadDocument(const QString & _url, const QString & _
     QString type = _type;
     url.replace("docId", "docID", Qt::CaseInsensitive);
     QString exportFormat = "";
+    m_type = _type;
 
     if(QString::compare(type, "spreadsheet", Qt::CaseInsensitive) == 0) {
         exportFormat = "&exportFormat=ods&format=ods";
