@@ -1,17 +1,18 @@
 This package was debianized by Shantanu Tushar <shaan@shaan-laptop> on
 Sat, 19 May 2012 17:17:30 +0530.
 
-It was downloaded from <url://example.com>
+It was downloaded from https://github.com/shaan7/harmattan-online-docs
 
 Upstream Author(s):
 
-    <put author's name and email here>
-    <likewise for another author>
+    Shantanu Tushar <shaan7in@gmail.com>
+    Sinny Kumari <ksinny@gmail.com>
 
 Copyright:
 
-    <Copyright (C) YYYY Name OfAuthor>
-    <likewise for another author>
+    Copyright (C) 2010 Mani Chandrasekar <maninc@gmail.com>
+    Copyright (C) 2012 Shantanu Tushar <shaan7in@gmail.com>
+    Copyright (C) 2012 Sinny Kumari <ksinny@gmail.com>
 
 License:
 
@@ -32,7 +33,7 @@ License:
 On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL'.
 
-The Debian packaging is (C) 2012, Shantanu Tushar <shaan@shaan-laptop> and
+The Debian packaging is (C) 2012, Shantanu Tushar <shaan7in@gmail.com> and
 is licensed under the GPL, see above.
 
 
